@@ -1,4 +1,8 @@
 # Accurate-Cyber-Defense-SCADA-Threat-Monitoring-and-Surveillance-Tool
+
+<img width="1536" height="400" alt="accurate44" src="https://github.com/user-attachments/assets/98bf0639-28e4-47ec-9a72-e3d80280f437" />
+
+
 Accurate-Cyber-Defense-SCADA-Threat-Monitoring-and-Surveillance-Tool is an advanced cybersecurity solution designed to provide real-time monitoring, detection, and analysis of threats targeting SCADA (Supervisory Control and Data Acquisition) and industrial control systems.
 
 As critical infrastructure becomes increasingly connected, SCADA systems face a growing risk from cyberattacks, including ransomware, malware, and unauthorized intrusions. This tool addresses these challenges by combining proactive surveillance, automated threat detection, and seamless integration with multiple platforms.
