@@ -19,15 +19,18 @@ Designed for both security professionals and industrial operators, Accurate-Cybe
 By enabling early detection, efficient reporting, and rapid response, this tool strengthens the resilience of critical infrastructure against cyber threats.
 Whether used as a standalone monitoring solution or integrated into a larger security ecosystem, it empowers organizations to safeguard essential systems and maintain operational continuity with confidence.
 
-**How to clone the Repo**
+## How to clone the Repo
+
+```bash
 
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-SCADA-Threat-Monitoring-and-Surveillance-Tool.git
 
 cd Accurate-Cyber-Defense-SCADA-Threat-Monitoring-and-Surveillance-Tool
+```
 
-**How to run the repo**
-
+## How to run the repo
+```bash
 python3 /Accurate-Cyber-Defense-SCADA-Threat-Monitoring-and-Surveillance-Tool.py
-
+```
 
 
